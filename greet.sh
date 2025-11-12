@@ -1,4 +1,5 @@
 #!/bin/bash
 
-echo "Привет!"
-echo "Добро пожаловать в Linux!"
+git add .
+git commit -m "урок"
+git push origin master

@@ -26,3 +26,12 @@ num1 = int(input("введите первое число:"))
 num2 = int(input("введите второе число: ")) 
 
 print(num1>num2)
+
+
+
+# решение:
+first_name = input("введите имя: ")
+last_name = input("введите фамилию: ")
+
+
+print(first_name+)
